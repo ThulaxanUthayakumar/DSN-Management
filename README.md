@@ -1,2 +1,2 @@
-# DSN-Management
-CodeBlocks Project
+# DSN-Managemen
+Project
